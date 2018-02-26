@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_186984_fruwrap.module_user" name="x_186984_fruwrap.module_user">e5a78c11db601300142a773ebf961956</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>schan82</sys_created_by>
+        <sys_created_on>2018-02-26 16:42:13</sys_created_on>
+        <sys_id>e5a78c11db601300142a773ebf961958</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e5a78c11db601300142a773ebf961956</sys_name>
+        <sys_package display_value="FruWrap" source="x_186984_fruwrap">f8920099db201300142a773ebf961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FruWrap">f8920099db201300142a773ebf961932</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e5a78c11db601300142a773ebf961958</sys_update_name>
+        <sys_updated_by>schan82</sys_updated_by>
+        <sys_updated_on>2018-02-26 16:42:13</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
