@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2018-02-27 16:31:12</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-27 16:31:12</sys_created_on>
+        <sys_id>4abe45a1db601300142a773ebf9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cdae45561283268fc4d90c834575dd449f0a75cb83677923f7a45626a361bfbe</sys_name>
+        <sys_package display_value="FruWrap" source="x_186984_fruwrap">f8920099db201300142a773ebf961932</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="FruWrap">f8920099db201300142a773ebf961932</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_4abe45a1db601300142a773ebf9619d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-27 16:31:12</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>cdae45561283268fc4d90c834575dd449f0a75cb83677923f7a45626a361bfbe</token>
+    </sys_push_notif_app_install>
+</record_update>

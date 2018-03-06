@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Change Calendar">4dd2a96ddb601300142a773ebf9619f6</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>vpatel66</sys_created_by>
+        <sys_created_on>2018-02-27 17:59:05</sys_created_on>
+        <sys_id>45d2a96ddb601300142a773ebf9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>4dd2a96ddb601300142a773ebf9619f6</sys_name>
+        <sys_package display_value="FruWrap" source="x_186984_fruwrap">f8920099db201300142a773ebf961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FruWrap">f8920099db201300142a773ebf961932</sys_scope>
+        <sys_update_name>sys_report_users_groups_45d2a96ddb601300142a773ebf9619f7</sys_update_name>
+        <sys_updated_by>vpatel66</sys_updated_by>
+        <sys_updated_on>2018-02-27 17:59:05</sys_updated_on>
+        <user_id display_value="Vinali Patel">a21cb3c5db201300142a773ebf961968</user_id>
+    </sys_report_users_groups>
+</record_update>

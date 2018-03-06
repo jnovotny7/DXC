@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>performance-analytics</category>
+        <content><![CDATA[ <h1 class="title topictitle1">Widgets</h1>  <div class="body conbody">  <p class="p"><span class="ph">Widgets enable you to define visualizations for indicator scores.      Widgets are shown on dashboards.</span></p>  <p class="p">A <span class="ph">Performance Analytics</span>      widget ties an indicator to a visualization, such as a trend line, a set of columns, or a pie      chart. Within the widget, you can filter or group indicator scores can by breakdowns. You can      also apply time series functions, such as 7-day sums, to the scores. </p> </div>]]></content>
+        <last_sync>2018-02-26 20:27:13</last_sync>
+        <modifier>normal</modifier>
+        <name>pa_widgets_list-normal</name>
+        <page>pa_widgets_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-02-26 20:27:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>312bf8d9dbe01300142a773ebf9619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pa_widgets_list-normal</sys_name>
+        <sys_package display_value="FruWrap" source="x_186984_fruwrap">f8920099db201300142a773ebf961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FruWrap">f8920099db201300142a773ebf961932</sys_scope>
+        <sys_update_name>sys_embedded_help_content_312bf8d9dbe01300142a773ebf9619cc</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-02-26 20:27:14</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=312bf8d9dbe01300142a773ebf9619cc"/>
+</record_update>

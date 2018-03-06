@@ -2,58 +2,58 @@
 <record_update>
     <sys_ui_section caption="" section_id="7f86409ddb201300142a773ebf961939" sys_domain="global" table="x_186984_fruwrap_workshop" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>name</element>
             <position>0</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>ff86409ddb201300142a773ebf96193a</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>446f75eddba01300142a773ebf9619a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
+            <element>number</element>
             <position>1</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>f786409ddb201300142a773ebf96193b</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>c46f75eddba01300142a773ebf9619a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cmdb_ci</element>
+            <element>short_description</element>
             <position>2</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>7b86409ddb201300142a773ebf96193b</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>486f75eddba01300142a773ebf9619a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>active</element>
+            <element>company</element>
             <position>3</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>fb86409ddb201300142a773ebf96193b</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>c86f75eddba01300142a773ebf9619a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,111 +61,125 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>7f86409ddb201300142a773ebf96193b</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>4c6f75eddba01300142a773ebf9619a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
+            <element>assigned_to</element>
             <position>5</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>ff86409ddb201300142a773ebf96193b</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>cc6f75eddba01300142a773ebf9619a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
+            <element>active</element>
             <position>6</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>7386409ddb201300142a773ebf96193c</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>406f75eddba01300142a773ebf9619a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>parent</element>
-            <position>7</position>
-            <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>f386409ddb201300142a773ebf96193c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
-            <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>77864cdddb201300142a773ebf9619ff</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>c06f75eddba01300142a773ebf9619a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>short_description</element>
-            <position>9</position>
-            <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>f7864cdddb201300142a773ebf9619ff</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
-            <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>10</position>
+            <position>8</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>7b864cdddb201300142a773ebf9619ff</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>446f75eddba01300142a773ebf9619a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
-            <position>11</position>
+            <position>9</position>
             <sys_created_by>jnovotny7</sys_created_by>
-            <sys_created_on>2018-02-26 16:37:27</sys_created_on>
-            <sys_id>fb864cdddb201300142a773ebf9619ff</sys_id>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>c46f75eddba01300142a773ebf9619a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
             <sys_updated_by>jnovotny7</sys_updated_by>
-            <sys_updated_on>2018-02-26 16:37:27</sys_updated_on>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test</element>
+            <position>10</position>
+            <sys_created_by>jnovotny7</sys_created_by>
+            <sys_created_on>2018-02-27 20:03:47</sys_created_on>
+            <sys_id>486f75eddba01300142a773ebf9619a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
+            <sys_updated_by>jnovotny7</sys_updated_by>
+            <sys_updated_on>2018-02-27 20:03:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fake_int</element>
+            <position>11</position>
+            <sys_created_by>schan82</sys_created_by>
+            <sys_created_on>2018-02-27 20:11:42</sys_created_on>
+            <sys_id>08318261dbe01300142a773ebf96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
+            <sys_updated_by>schan82</sys_updated_by>
+            <sys_updated_on>2018-02-27 20:11:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workshop_duration</element>
+            <position>12</position>
+            <sys_created_by>schan82</sys_created_by>
+            <sys_created_on>2018-02-28 21:44:11</sys_created_on>
+            <sys_id>acff1f3ddba01300142a773ebf961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="Default view">7f86409ddb201300142a773ebf961939</sys_ui_section>
+            <sys_updated_by>schan82</sys_updated_by>
+            <sys_updated_on>2018-02-28 21:44:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

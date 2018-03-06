@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Client Availability" max_length="40" name="x_186984_fruwrap_availability" type="collection">
+        <element label="Comments" max_length="40" name="comments" type="string"/>
+        <element label="Date Available" mandatory="true" max_length="40" name="date_available" type="glide_date_time"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element dependent="u_reference_1" dependent_on_field="u_reference_1" label="Company" mandatory="true" max_length="32" name="u_reference_1" reference="core_company" type="reference" use_dependent_field="true"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="7f378cebdb601300142a773ebf96193b" sys_domain="global" table="x_186984_fruwrap_workshop" version="3" view="vtb">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>0</position>
+            <sys_created_by>schan82</sys_created_by>
+            <sys_created_on>2018-03-05 16:29:30</sys_created_on>
+            <sys_id>53d7846fdb601300142a773ebf9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="0783336247231100ba13a5554ee490e7">7f378cebdb601300142a773ebf96193b</sys_ui_section>
+            <sys_updated_by>schan82</sys_updated_by>
+            <sys_updated_on>2018-03-05 16:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workshop_duration</element>
+            <position>1</position>
+            <sys_created_by>schan82</sys_created_by>
+            <sys_created_on>2018-03-05 16:29:30</sys_created_on>
+            <sys_id>d3d7846fdb601300142a773ebf9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="0783336247231100ba13a5554ee490e7">7f378cebdb601300142a773ebf96193b</sys_ui_section>
+            <sys_updated_by>schan82</sys_updated_by>
+            <sys_updated_on>2018-03-05 16:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test</element>
+            <position>2</position>
+            <sys_created_by>schan82</sys_created_by>
+            <sys_created_on>2018-03-05 16:29:30</sys_created_on>
+            <sys_id>57d7846fdb601300142a773ebf9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_186984_fruwrap_workshop" sys_domain="global" view="0783336247231100ba13a5554ee490e7">7f378cebdb601300142a773ebf96193b</sys_ui_section>
+            <sys_updated_by>schan82</sys_updated_by>
+            <sys_updated_on>2018-03-05 16:29:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_186984_fruwrap_workshop</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>schan82</sys_created_by>
+            <sys_created_on>2018-03-05 16:26:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f378cebdb601300142a773ebf96193b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_186984_fruwrap_workshop</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="FruWrap" source="x_186984_fruwrap">f8920099db201300142a773ebf961932</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="FruWrap">f8920099db201300142a773ebf961932</sys_scope>
+            <sys_update_name>sys_ui_section_7f378cebdb601300142a773ebf96193b</sys_update_name>
+            <sys_updated_by>schan82</sys_updated_by>
+            <sys_updated_on>2018-03-05 16:26:48</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="VTB" name="vtb">0783336247231100ba13a5554ee490e7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

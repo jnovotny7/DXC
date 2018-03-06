@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>Core</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>Fruition will review the key elements and data models that comprise the ServiceNow Core Data</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>schan82</sys_created_by>
+        <sys_created_on>2018-03-05 17:38:04</sys_created_on>
+        <sys_id>800710abdba01300142a773ebf96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Core</sys_name>
+        <sys_package display_value="FruWrap" source="x_186984_fruwrap">f8920099db201300142a773ebf961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FruWrap">f8920099db201300142a773ebf961932</sys_scope>
+        <sys_update_name>sys_template_800710abdba01300142a773ebf96198c</sys_update_name>
+        <sys_updated_by>schan82</sys_updated_by>
+        <sys_updated_on>2018-03-05 17:38:04</sys_updated_on>
+        <table>x_186984_fruwrap_workshop</table>
+        <template>active=true^test=a15e40e3dba01300142a773ebf9619f0,4cfe40e3dba01300142a773ebf9619d1,cd2fc8e3dba01300142a773ebf9619e9,798f08e3dba01300142a773ebf9619fa^EQ</template>
+        <user display_value="Steven Chan">457cbb85db201300142a773ebf9619f1</user>
+        <view/>
+    </sys_template>
+</record_update>

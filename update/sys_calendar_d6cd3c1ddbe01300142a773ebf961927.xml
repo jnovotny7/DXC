@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_calendar">
+    <sys_calendar action="INSERT_OR_UPDATE">
+        <name>Monday thru Friday (9 - 5)</name>
+        <sys_class_name>sys_calendar</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-26 20:38:45</sys_created_on>
+        <sys_id>d6cd3c1ddbe01300142a773ebf961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Monday thru Friday (9 - 5)</sys_name>
+        <sys_package display_value="FruWrap" source="x_186984_fruwrap">f8920099db201300142a773ebf961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FruWrap">f8920099db201300142a773ebf961932</sys_scope>
+        <sys_update_name>sys_calendar_d6cd3c1ddbe01300142a773ebf961927</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-26 20:38:45</sys_updated_on>
+    </sys_calendar>
+</record_update>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function($scope,$rootScope) {
+
+
+   /* widget controller */
+
+   var c = this;
+
+ $scope.url="/sys_report_display.do?sysparm_report_id=3047482fdb601300142a773ebf961906";
+	// $scope.url="/x_186984_fruwrap_availability_list.do?sysparm_query= "
+	
+
+var myIframe = document.getElementById('main');
+
+myIframe.addEventListener("load", function() {
+
+   this.contentWindow.document.getElementById("reportform_control").style.display='none';   // hide report controls from users
+
+
+});
+
+
+ }
+]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>pm-avability-report</id>
+        <internal>false</internal>
+        <link/>
+        <name>PM Availability Report</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>vpatel66</sys_created_by>
+        <sys_created_on>2018-03-05 16:55:22</sys_created_on>
+        <sys_id>decd84a3dba01300142a773ebf961982</sys_id>
+        <sys_mod_count>35</sys_mod_count>
+        <sys_name>PM Availability Report</sys_name>
+        <sys_package display_value="FruWrap" source="x_186984_fruwrap">f8920099db201300142a773ebf961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FruWrap">f8920099db201300142a773ebf961932</sys_scope>
+        <sys_update_name>sp_widget_decd84a3dba01300142a773ebf961982</sys_update_name>
+        <sys_updated_by>vpatel66</sys_updated_by>
+        <sys_updated_on>2018-03-05 22:39:01</sys_updated_on>
+        <template><![CDATA[<div class ="container-fluid" id="iframeDiv" style="padding:0;margin:0" >
+
+
+   <div class="col-sm-12 col-md-12 col-xs-12 col-lg-12" style="width: 100%; height: 100%;overflow: hidden;padding:0;margin:0">
+
+     <iframe width="100%" height = "400"  id="main" ng-src="{{url}}" frameBorder="0" background-color="#doffooo"  style="position: relative;"></iframe>
+     
+   <div id="loader" style="position: absolute; font-size: 14px;  color: #4286f4; display: none">
+
+
+           <img src="Loading.gif" width="30" height="30"/>     L O A D I N G...
+
+
+       </div>
+
+
+   </div>]]></template>
+    </sp_widget>
+</record_update>

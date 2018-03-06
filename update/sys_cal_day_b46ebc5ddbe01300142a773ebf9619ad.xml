@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_cal_day">
+    <sys_cal_day action="INSERT_OR_UPDATE">
+        <day_of_week>3</day_of_week>
+        <end_time1>1970-01-02 07:59:59</end_time1>
+        <end_time2/>
+        <parent_id display_value="Monday thru Friday (9 - 5)">d6cd3c1ddbe01300142a773ebf961927</parent_id>
+        <start_time1>1970-01-01 08:00:00</start_time1>
+        <start_time2/>
+        <sys_class_name>sys_cal_day</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-26 20:41:25</sys_created_on>
+        <sys_id>b46ebc5ddbe01300142a773ebf9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3</sys_name>
+        <sys_package display_value="FruWrap" source="x_186984_fruwrap">f8920099db201300142a773ebf961932</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FruWrap">f8920099db201300142a773ebf961932</sys_scope>
+        <sys_update_name>sys_cal_day_b46ebc5ddbe01300142a773ebf9619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-26 20:41:25</sys_updated_on>
+    </sys_cal_day>
+</record_update>

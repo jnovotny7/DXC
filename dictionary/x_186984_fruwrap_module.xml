@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Module" max_length="40" name="x_186984_fruwrap_module" type="collection"/>
+    <element extends="task" label="Module" max_length="40" name="x_186984_fruwrap_module" sizeclass="11" type="collection">
+        <element default="6000" label="Duration" mandatory="true" max_length="40" name="duration" type="glide_duration"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
 </database>
